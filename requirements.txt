@@ -5,3 +5,15 @@ scipy
 voila
 seaborn
 ipywidgets
+matplotlib.widgets
+pandas
+numpy
+csv
+matplotlib.pyplot
+requests
+urllib.request
+BeautifulSoup
+re
+os
+scipy.stats
+IPython.display
