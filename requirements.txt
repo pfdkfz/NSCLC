@@ -11,3 +11,5 @@ requests
 bs4
 IPython
 ipywidgets
+csv
+urllib.request
