@@ -1,0 +1,14 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+matplotlib
+pandas
+numpy
+seaborn
+requests
+urllib
+bs4
+IPython
+ipywidgets
